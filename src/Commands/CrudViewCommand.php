@@ -67,6 +67,7 @@ class CrudViewCommand extends Command
         'datetime' => 'datetime-local',
         'timestamp' => 'datetime-local',
         'time' => 'time',
+        'radio' => 'radio',
         'boolean' => 'radio',
         'enum' => 'select',
         'select' => 'select',
